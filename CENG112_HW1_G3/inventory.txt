@@ -1,0 +1,14 @@
+tomato,vegetables and fruits,500
+potato,vegetables and fruits,1000
+onion,vegetables and fruits,1000
+banana,vegetables and fruits,750
+strawberry,vegetables and fruits,500
+chicken,meats,1000
+beef,meats,1000
+fish,meats,500
+coffee,beverages,250
+coke,beverages,300
+juice,beverages,1000
+chocolate,snacks,250
+cake,snacks,450
+nuts,snacks,300
